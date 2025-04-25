@@ -5,7 +5,7 @@
 #define RELAY_NO    true
 
 // Define the relay GPIO pin
-const int relayPin = 2;  // Using GPIO 2, change this to match your connection
+const int relayPin = 26;  // Using GPIO 2, change this to match your connection
 
 // Replace with your network credentials
 const char* ssid = "REPLACE_WITH_YOUR_SSID";
